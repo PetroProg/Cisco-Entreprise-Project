@@ -424,11 +424,13 @@ ip route 172.31.0.0 255.255.0.0 203.0.113.2
 # Validation des tests : connectivité et routage WAN
 ## Vérification des flux ICMP vers l’opérateur (`RT_INTERNET`)
 
-<div style="text-align: center; margin: 15px auto 20px;">
-  <img src="X-P_Res_129-Maltsev-tests-ping.png" style="width: 860px; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.4);" />
+<div style="text-align: center; margin: 10px auto 15px;">
+
+![w:860](X-P_Res_129-Maltsev-tests-ping.png)
+
 </div>
 
-<div class="note" style="font-size: 14.5px; line-height: 1.45; text-align: center; padding: 10px 18px;">
+<div class="note" style="font-size: 15px; line-height: 1.4; text-align: center; padding: 10px 18px;">
   <strong>Validation globale :</strong> Tests ICMP réussis (<code>Successful</code>) depuis les différents VLANs (Administration, Médiathèque, Technique, Serveurs) vers l’accès Internet (<code>RT_INTERNET</code>) à travers le pare-feu Cisco ASA.
 </div>
 
