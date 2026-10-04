@@ -12,11 +12,11 @@ Design, deployment and securing of a multi-site network for the municipality of 
 - Isolated visitors Wi-Fi (VLAN 99) restricted by an extended ACL
 - Internet access filtered by a Cisco ASA firewall (NAT, inspection, ACL)
 
-## Presentation
+## 🖥️ Interactive Presentation
 
-Open the class presentation (Marp Markdown): [Rapport/X-P_Res_129-Maltsev-Presentation.md](Rapport/X-P_Res_129-Maltsev-Presentation.md)
+👉 **[Voir la présentation en ligne (HTML plein écran)](https://petroprog.github.io/Cisco-Entreprise-Project/Rapport/X-P_Res_129-Maltsev-Presentation.html)**
 
-> Render it with the [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) extension or the Marp CLI.
+Source file (Marp Markdown): [`Rapport/X-P_Res_129-Maltsev-Presentation.md`](Rapport/X-P_Res_129-Maltsev-Presentation.md)
 
 ## Project Structure & Files
 
@@ -30,7 +30,8 @@ Open the class presentation (Marp Markdown): [Rapport/X-P_Res_129-Maltsev-Presen
 | └─ `X-P_Res_129-Maltsev-Schema.drawio` | Editable network diagram |
 | **`Rapport/`** | Documentation & presentation |
 | ├─ `R-P_Res_129-Maltsev-Petro.md` | Final technical report |
-| ├─ `X-P_Res_129-Maltsev-Presentation.md` | Slide deck presentation (Marp) |
+| ├─ `X-P_Res_129-Maltsev-Presentation.html` | Exported interactive HTML presentation |
+| ├─ `X-P_Res_129-Maltsev-Presentation.md` | Slide deck presentation source (Marp) |
 | ├─ `X-P_Res_129-Maltsev-PlanAdressage.xlsx` | IP addressing plan spreadsheet |
 | ├─ `X-P_Res_129-Maltsev-Schema.svg` | Vector network diagram |
 | └─ `X-P_Res_129-Maltsev-topologie.png` | Packet Tracer topology screenshot |
