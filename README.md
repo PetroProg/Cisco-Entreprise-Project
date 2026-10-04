@@ -34,6 +34,7 @@ Source file (Marp Markdown): [`Rapport/X-P_Res_129-Maltsev-Presentation.md`](Rap
 | ├─ `X-P_Res_129-Maltsev-Presentation.md` | Slide deck presentation source (Marp) |
 | ├─ `X-P_Res_129-Maltsev-PlanAdressage.xlsx` | IP addressing plan spreadsheet |
 | ├─ `X-P_Res_129-Maltsev-Schema.svg` | Vector network diagram |
+| ├─ `X-P_Res_129-Maltsev-tests-ping.png` | Packet Tracer ICMP ping test validation |
 | └─ `X-P_Res_129-Maltsev-topologie.png` | Packet Tracer topology screenshot |
 | **Root** | |
 | └─ `T-P_Res_129-Maltsev-JdT.md` | Work log (Journal de travail) |
